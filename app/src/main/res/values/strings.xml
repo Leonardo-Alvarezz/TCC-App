@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Chico Leme Barbearia</string>
+    <string name="app_slogan">Seu estilo em evidência</string>
+    <string name="app_welcome">Seja bem vindo</string>
+    <string name="app_cad">Cadastro</string>
+    <string name="app_login">Login</string>
+    <string name="text_username">Email ou username:</string>
+    <string name="text_name">Nome:</string>
+    <string name="text_numero">Número:</string>
+    <string name="text_email">Email:</string>
+    <string name="text_email_invalid">Email não válido</string>
+    <string name="text_password">Senha:</string>
+    <string name="text_password_invalid">Senha inválida</string>
+    <string name="text_passwordEemail_invalid">Senha ou email inválida</string>
+    <string name="text_connection_error">Erro de Conexão</string>
+    <string name="text_forgot_password">Esqueceu a senha?</string>
+    <string name="text_new_acount">Não tenho conta</string>
+    <string name="text_error_all_fields">Erro em todos os campos</string>
+    <string name="text_insert_error">Erro no insert</string>
+    <string name="text_insert_success">Sucesso no insert</string>
+    <string name="text_just_have_login">Já tenho conta</string>
+    <string name="text_sign_in">Entrar</string>
+    <string name="text_cadaster">Cadastrar</string>
+    <string name="text_login_mandatory">Campo obrigatório</string>
+    <string name="text_splashscreen_welcome">Loading...</string>
+    <string name="text_user_name">Eduardo Lucas</string>
+    <string name="text_user_email">edulucas.le43@gmail.com</string>
+    <string name="text_user_cpf">535.879.268-67</string>
+    <string name="text_user_cell">(11) 999132752</string>
+    <string name="text_titulo">Perfil Cliente</string>
+    <string name="text_total_agendado">Cortes Agendados</string>
+    <string name="text_agradecimento">Muito obrigado pela preferencia!</string>
+    <string name="text_vip_client">Vip Client</string>
+    <string name="text_vip_client_slogan">A cada 10 cortes receba um de graça!</string>
+    <string name="text_vip_client_complemento">Corte mais e participe da promoção!</string>
+</resources>
