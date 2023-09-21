@@ -2,7 +2,7 @@
     <string name="app_name">Chico Leme Barbearia</string>
     <string name="app_slogan">Seu estilo em evidência</string>
     <string name="app_welcome">Seja bem vindo</string>
-    <string name="app_cad">Cadastro</string>
+    <string name="app_cad">Cadastre-se</string>
     <string name="app_login">Login</string>
     <string name="text_username">Email ou username:</string>
     <string name="text_name">Nome:</string>
